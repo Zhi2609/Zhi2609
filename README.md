@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Looking for something?
+Maybe someday you'll find out here which languages I know, like Python and JavaScript...
 <!--
 **Zhi2609/Zhi2609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
