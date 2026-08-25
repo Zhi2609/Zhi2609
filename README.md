@@ -34,11 +34,14 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🐍 Gráfico de Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zhi2609&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zhi2609's GitHub stats" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zhi2609&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhi2609/Zhi2609/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zhi2609/Zhi2609/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Zhi2609/Zhi2609/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
