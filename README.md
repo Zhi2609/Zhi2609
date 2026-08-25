@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner superior -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=¡Hola,%20soy%20Zhi!%20👋&fontSize=38&fontAlignY=35&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=¡Hola,%20soy%20Cesar!%20👋&fontSize=38&fontAlignY=35&animation=fadeIn" width="100%" />
 
   <!-- Texto animado (Typing effect) -->
   <a href="https://git.io/typing-svg">
