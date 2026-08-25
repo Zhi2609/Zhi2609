@@ -37,8 +37,8 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhi2609&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zhi2609's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhi2609&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zhi2609&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zhi2609's GitHub stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zhi2609&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 ---
@@ -49,8 +49,8 @@
   <a href="mailto:caeruleum.g@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-/*  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <!-- <a href="https://linkedin.com/in/tu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> */
+  </a> -->
 </div>
 
